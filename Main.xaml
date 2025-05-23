@@ -98,6 +98,7 @@
           <InArgument x:TypeArguments="x:String">Chicago</InArgument>
           <InArgument x:TypeArguments="x:String">Miami</InArgument>
           <InArgument x:TypeArguments="x:String">LA</InArgument>
+          <InArgument x:TypeArguments="x:String">kk</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
