@@ -94,11 +94,13 @@
     </Assign>
     <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build collection Cities US" FirstItem="New York" sap:VirtualizedContainerService.HintSize="433.6,174.4" sap2010:WorkflowViewState.IdRef="BuildCollection`1_2" Result="[Cities(&quot;US&quot;)]">
       <uasc:BuildCollection.NextItems>
-        <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
+        <scg:List x:TypeArguments="InArgument(x:String)" Capacity="8">
           <InArgument x:TypeArguments="x:String">Chicago</InArgument>
           <InArgument x:TypeArguments="x:String">Miami</InArgument>
           <InArgument x:TypeArguments="x:String">San Diego</InArgument>
-          <InArgument x:TypeArguments="x:String">55</InArgument>
+          <InArgument x:TypeArguments="x:String">Texas</InArgument>
+          <InArgument x:TypeArguments="x:String">LA</InArgument>
+          <InArgument x:TypeArguments="x:String">kk</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
